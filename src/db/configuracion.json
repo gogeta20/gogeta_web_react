@@ -1,0 +1,17 @@
+{
+    "BD" : {
+			"host":"localhost",
+			"user":"root",
+			"pass":"",
+			"bada":"matelas",
+			"puerto": 3306
+		},
+		"CASA":{
+			"host":"localhost",
+			"user":"root",
+			"pass":"",
+			"bada":"gogeta",
+			"puerto": 3306
+		}
+}
+

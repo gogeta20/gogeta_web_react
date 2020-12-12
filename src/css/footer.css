@@ -1,0 +1,13 @@
+footer{
+	background: linear-gradient( 130deg , #cae1e2  30%, #0d7377 100%);
+	margin: 1em;
+	border: 1px solid black;
+	border-radius: 1em;
+	box-shadow: 3px 3px 4px grey;
+	display: flex;
+	justify-content: space-around;
+}
+
+footer h3{
+	text-align: center;
+}
